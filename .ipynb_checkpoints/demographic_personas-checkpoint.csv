@@ -1,0 +1,919 @@
+Age,Gender,Race,Other Category,Option
+young adult,nonbinary,native american,religion,spiritual
+young adult,nonbinary,native american,religion,non spirtual
+young adult,nonbinary,native american,financial status,Below poverty line
+young adult,nonbinary,native american,financial status,Working Class
+young adult,nonbinary,native american,financial status,Middle Class
+young adult,nonbinary,native american,financial status,Upper Class
+young adult,nonbinary,native american,circumstance,rush
+young adult,nonbinary,native american,circumstance,no rush
+young adult,nonbinary,native american,marrystat,married
+young adult,nonbinary,native american,marrystat,divorced
+young adult,nonbinary,native american,marrystat,widowed
+young adult,nonbinary,native american,marrystat,single
+young adult,nonbinary,native american,education,no high school diploma
+young adult,nonbinary,native american,education,high school graduate
+young adult,nonbinary,native american,education,associates degree / some college
+young adult,nonbinary,native american,education,college degree
+young adult,nonbinary,native american,education,higher degree
+young adult,nonbinary,asian,religion,spiritual
+young adult,nonbinary,asian,religion,non spirtual
+young adult,nonbinary,asian,financial status,Below poverty line
+young adult,nonbinary,asian,financial status,Working Class
+young adult,nonbinary,asian,financial status,Middle Class
+young adult,nonbinary,asian,financial status,Upper Class
+young adult,nonbinary,asian,circumstance,rush
+young adult,nonbinary,asian,circumstance,no rush
+young adult,nonbinary,asian,marrystat,married
+young adult,nonbinary,asian,marrystat,divorced
+young adult,nonbinary,asian,marrystat,widowed
+young adult,nonbinary,asian,marrystat,single
+young adult,nonbinary,asian,education,no high school diploma
+young adult,nonbinary,asian,education,high school graduate
+young adult,nonbinary,asian,education,associates degree / some college
+young adult,nonbinary,asian,education,college degree
+young adult,nonbinary,asian,education,higher degree
+young adult,nonbinary,black,religion,spiritual
+young adult,nonbinary,black,religion,non spirtual
+young adult,nonbinary,black,financial status,Below poverty line
+young adult,nonbinary,black,financial status,Working Class
+young adult,nonbinary,black,financial status,Middle Class
+young adult,nonbinary,black,financial status,Upper Class
+young adult,nonbinary,black,circumstance,rush
+young adult,nonbinary,black,circumstance,no rush
+young adult,nonbinary,black,marrystat,married
+young adult,nonbinary,black,marrystat,divorced
+young adult,nonbinary,black,marrystat,widowed
+young adult,nonbinary,black,marrystat,single
+young adult,nonbinary,black,education,no high school diploma
+young adult,nonbinary,black,education,high school graduate
+young adult,nonbinary,black,education,associates degree / some college
+young adult,nonbinary,black,education,college degree
+young adult,nonbinary,black,education,higher degree
+young adult,nonbinary,hispanic,religion,spiritual
+young adult,nonbinary,hispanic,religion,non spirtual
+young adult,nonbinary,hispanic,financial status,Below poverty line
+young adult,nonbinary,hispanic,financial status,Working Class
+young adult,nonbinary,hispanic,financial status,Middle Class
+young adult,nonbinary,hispanic,financial status,Upper Class
+young adult,nonbinary,hispanic,circumstance,rush
+young adult,nonbinary,hispanic,circumstance,no rush
+young adult,nonbinary,hispanic,marrystat,married
+young adult,nonbinary,hispanic,marrystat,divorced
+young adult,nonbinary,hispanic,marrystat,widowed
+young adult,nonbinary,hispanic,marrystat,single
+young adult,nonbinary,hispanic,education,no high school diploma
+young adult,nonbinary,hispanic,education,high school graduate
+young adult,nonbinary,hispanic,education,associates degree / some college
+young adult,nonbinary,hispanic,education,college degree
+young adult,nonbinary,hispanic,education,higher degree
+young adult,nonbinary,pacific islander,religion,spiritual
+young adult,nonbinary,pacific islander,religion,non spirtual
+young adult,nonbinary,pacific islander,financial status,Below poverty line
+young adult,nonbinary,pacific islander,financial status,Working Class
+young adult,nonbinary,pacific islander,financial status,Middle Class
+young adult,nonbinary,pacific islander,financial status,Upper Class
+young adult,nonbinary,pacific islander,circumstance,rush
+young adult,nonbinary,pacific islander,circumstance,no rush
+young adult,nonbinary,pacific islander,marrystat,married
+young adult,nonbinary,pacific islander,marrystat,divorced
+young adult,nonbinary,pacific islander,marrystat,widowed
+young adult,nonbinary,pacific islander,marrystat,single
+young adult,nonbinary,pacific islander,education,no high school diploma
+young adult,nonbinary,pacific islander,education,high school graduate
+young adult,nonbinary,pacific islander,education,associates degree / some college
+young adult,nonbinary,pacific islander,education,college degree
+young adult,nonbinary,pacific islander,education,higher degree
+young adult,nonbinary,white,religion,spiritual
+young adult,nonbinary,white,religion,non spirtual
+young adult,nonbinary,white,financial status,Below poverty line
+young adult,nonbinary,white,financial status,Working Class
+young adult,nonbinary,white,financial status,Middle Class
+young adult,nonbinary,white,financial status,Upper Class
+young adult,nonbinary,white,circumstance,rush
+young adult,nonbinary,white,circumstance,no rush
+young adult,nonbinary,white,marrystat,married
+young adult,nonbinary,white,marrystat,divorced
+young adult,nonbinary,white,marrystat,widowed
+young adult,nonbinary,white,marrystat,single
+young adult,nonbinary,white,education,no high school diploma
+young adult,nonbinary,white,education,high school graduate
+young adult,nonbinary,white,education,associates degree / some college
+young adult,nonbinary,white,education,college degree
+young adult,nonbinary,white,education,higher degree
+young adult,male,native american,religion,spiritual
+young adult,male,native american,religion,non spirtual
+young adult,male,native american,financial status,Below poverty line
+young adult,male,native american,financial status,Working Class
+young adult,male,native american,financial status,Middle Class
+young adult,male,native american,financial status,Upper Class
+young adult,male,native american,circumstance,rush
+young adult,male,native american,circumstance,no rush
+young adult,male,native american,marrystat,married
+young adult,male,native american,marrystat,divorced
+young adult,male,native american,marrystat,widowed
+young adult,male,native american,marrystat,single
+young adult,male,native american,education,no high school diploma
+young adult,male,native american,education,high school graduate
+young adult,male,native american,education,associates degree / some college
+young adult,male,native american,education,college degree
+young adult,male,native american,education,higher degree
+young adult,male,asian,religion,spiritual
+young adult,male,asian,religion,non spirtual
+young adult,male,asian,financial status,Below poverty line
+young adult,male,asian,financial status,Working Class
+young adult,male,asian,financial status,Middle Class
+young adult,male,asian,financial status,Upper Class
+young adult,male,asian,circumstance,rush
+young adult,male,asian,circumstance,no rush
+young adult,male,asian,marrystat,married
+young adult,male,asian,marrystat,divorced
+young adult,male,asian,marrystat,widowed
+young adult,male,asian,marrystat,single
+young adult,male,asian,education,no high school diploma
+young adult,male,asian,education,high school graduate
+young adult,male,asian,education,associates degree / some college
+young adult,male,asian,education,college degree
+young adult,male,asian,education,higher degree
+young adult,male,black,religion,spiritual
+young adult,male,black,religion,non spirtual
+young adult,male,black,financial status,Below poverty line
+young adult,male,black,financial status,Working Class
+young adult,male,black,financial status,Middle Class
+young adult,male,black,financial status,Upper Class
+young adult,male,black,circumstance,rush
+young adult,male,black,circumstance,no rush
+young adult,male,black,marrystat,married
+young adult,male,black,marrystat,divorced
+young adult,male,black,marrystat,widowed
+young adult,male,black,marrystat,single
+young adult,male,black,education,no high school diploma
+young adult,male,black,education,high school graduate
+young adult,male,black,education,associates degree / some college
+young adult,male,black,education,college degree
+young adult,male,black,education,higher degree
+young adult,male,hispanic,religion,spiritual
+young adult,male,hispanic,religion,non spirtual
+young adult,male,hispanic,financial status,Below poverty line
+young adult,male,hispanic,financial status,Working Class
+young adult,male,hispanic,financial status,Middle Class
+young adult,male,hispanic,financial status,Upper Class
+young adult,male,hispanic,circumstance,rush
+young adult,male,hispanic,circumstance,no rush
+young adult,male,hispanic,marrystat,married
+young adult,male,hispanic,marrystat,divorced
+young adult,male,hispanic,marrystat,widowed
+young adult,male,hispanic,marrystat,single
+young adult,male,hispanic,education,no high school diploma
+young adult,male,hispanic,education,high school graduate
+young adult,male,hispanic,education,associates degree / some college
+young adult,male,hispanic,education,college degree
+young adult,male,hispanic,education,higher degree
+young adult,male,pacific islander,religion,spiritual
+young adult,male,pacific islander,religion,non spirtual
+young adult,male,pacific islander,financial status,Below poverty line
+young adult,male,pacific islander,financial status,Working Class
+young adult,male,pacific islander,financial status,Middle Class
+young adult,male,pacific islander,financial status,Upper Class
+young adult,male,pacific islander,circumstance,rush
+young adult,male,pacific islander,circumstance,no rush
+young adult,male,pacific islander,marrystat,married
+young adult,male,pacific islander,marrystat,divorced
+young adult,male,pacific islander,marrystat,widowed
+young adult,male,pacific islander,marrystat,single
+young adult,male,pacific islander,education,no high school diploma
+young adult,male,pacific islander,education,high school graduate
+young adult,male,pacific islander,education,associates degree / some college
+young adult,male,pacific islander,education,college degree
+young adult,male,pacific islander,education,higher degree
+young adult,male,white,religion,spiritual
+young adult,male,white,religion,non spirtual
+young adult,male,white,financial status,Below poverty line
+young adult,male,white,financial status,Working Class
+young adult,male,white,financial status,Middle Class
+young adult,male,white,financial status,Upper Class
+young adult,male,white,circumstance,rush
+young adult,male,white,circumstance,no rush
+young adult,male,white,marrystat,married
+young adult,male,white,marrystat,divorced
+young adult,male,white,marrystat,widowed
+young adult,male,white,marrystat,single
+young adult,male,white,education,no high school diploma
+young adult,male,white,education,high school graduate
+young adult,male,white,education,associates degree / some college
+young adult,male,white,education,college degree
+young adult,male,white,education,higher degree
+young adult,female,native american,religion,spiritual
+young adult,female,native american,religion,non spirtual
+young adult,female,native american,financial status,Below poverty line
+young adult,female,native american,financial status,Working Class
+young adult,female,native american,financial status,Middle Class
+young adult,female,native american,financial status,Upper Class
+young adult,female,native american,circumstance,rush
+young adult,female,native american,circumstance,no rush
+young adult,female,native american,marrystat,married
+young adult,female,native american,marrystat,divorced
+young adult,female,native american,marrystat,widowed
+young adult,female,native american,marrystat,single
+young adult,female,native american,education,no high school diploma
+young adult,female,native american,education,high school graduate
+young adult,female,native american,education,associates degree / some college
+young adult,female,native american,education,college degree
+young adult,female,native american,education,higher degree
+young adult,female,asian,religion,spiritual
+young adult,female,asian,religion,non spirtual
+young adult,female,asian,financial status,Below poverty line
+young adult,female,asian,financial status,Working Class
+young adult,female,asian,financial status,Middle Class
+young adult,female,asian,financial status,Upper Class
+young adult,female,asian,circumstance,rush
+young adult,female,asian,circumstance,no rush
+young adult,female,asian,marrystat,married
+young adult,female,asian,marrystat,divorced
+young adult,female,asian,marrystat,widowed
+young adult,female,asian,marrystat,single
+young adult,female,asian,education,no high school diploma
+young adult,female,asian,education,high school graduate
+young adult,female,asian,education,associates degree / some college
+young adult,female,asian,education,college degree
+young adult,female,asian,education,higher degree
+young adult,female,black,religion,spiritual
+young adult,female,black,religion,non spirtual
+young adult,female,black,financial status,Below poverty line
+young adult,female,black,financial status,Working Class
+young adult,female,black,financial status,Middle Class
+young adult,female,black,financial status,Upper Class
+young adult,female,black,circumstance,rush
+young adult,female,black,circumstance,no rush
+young adult,female,black,marrystat,married
+young adult,female,black,marrystat,divorced
+young adult,female,black,marrystat,widowed
+young adult,female,black,marrystat,single
+young adult,female,black,education,no high school diploma
+young adult,female,black,education,high school graduate
+young adult,female,black,education,associates degree / some college
+young adult,female,black,education,college degree
+young adult,female,black,education,higher degree
+young adult,female,hispanic,religion,spiritual
+young adult,female,hispanic,religion,non spirtual
+young adult,female,hispanic,financial status,Below poverty line
+young adult,female,hispanic,financial status,Working Class
+young adult,female,hispanic,financial status,Middle Class
+young adult,female,hispanic,financial status,Upper Class
+young adult,female,hispanic,circumstance,rush
+young adult,female,hispanic,circumstance,no rush
+young adult,female,hispanic,marrystat,married
+young adult,female,hispanic,marrystat,divorced
+young adult,female,hispanic,marrystat,widowed
+young adult,female,hispanic,marrystat,single
+young adult,female,hispanic,education,no high school diploma
+young adult,female,hispanic,education,high school graduate
+young adult,female,hispanic,education,associates degree / some college
+young adult,female,hispanic,education,college degree
+young adult,female,hispanic,education,higher degree
+young adult,female,pacific islander,religion,spiritual
+young adult,female,pacific islander,religion,non spirtual
+young adult,female,pacific islander,financial status,Below poverty line
+young adult,female,pacific islander,financial status,Working Class
+young adult,female,pacific islander,financial status,Middle Class
+young adult,female,pacific islander,financial status,Upper Class
+young adult,female,pacific islander,circumstance,rush
+young adult,female,pacific islander,circumstance,no rush
+young adult,female,pacific islander,marrystat,married
+young adult,female,pacific islander,marrystat,divorced
+young adult,female,pacific islander,marrystat,widowed
+young adult,female,pacific islander,marrystat,single
+young adult,female,pacific islander,education,no high school diploma
+young adult,female,pacific islander,education,high school graduate
+young adult,female,pacific islander,education,associates degree / some college
+young adult,female,pacific islander,education,college degree
+young adult,female,pacific islander,education,higher degree
+young adult,female,white,religion,spiritual
+young adult,female,white,religion,non spirtual
+young adult,female,white,financial status,Below poverty line
+young adult,female,white,financial status,Working Class
+young adult,female,white,financial status,Middle Class
+young adult,female,white,financial status,Upper Class
+young adult,female,white,circumstance,rush
+young adult,female,white,circumstance,no rush
+young adult,female,white,marrystat,married
+young adult,female,white,marrystat,divorced
+young adult,female,white,marrystat,widowed
+young adult,female,white,marrystat,single
+young adult,female,white,education,no high school diploma
+young adult,female,white,education,high school graduate
+young adult,female,white,education,associates degree / some college
+young adult,female,white,education,college degree
+young adult,female,white,education,higher degree
+adult,nonbinary,native american,religion,spiritual
+adult,nonbinary,native american,religion,non spirtual
+adult,nonbinary,native american,financial status,Below poverty line
+adult,nonbinary,native american,financial status,Working Class
+adult,nonbinary,native american,financial status,Middle Class
+adult,nonbinary,native american,financial status,Upper Class
+adult,nonbinary,native american,circumstance,rush
+adult,nonbinary,native american,circumstance,no rush
+adult,nonbinary,native american,marrystat,married
+adult,nonbinary,native american,marrystat,divorced
+adult,nonbinary,native american,marrystat,widowed
+adult,nonbinary,native american,marrystat,single
+adult,nonbinary,native american,education,no high school diploma
+adult,nonbinary,native american,education,high school graduate
+adult,nonbinary,native american,education,associates degree / some college
+adult,nonbinary,native american,education,college degree
+adult,nonbinary,native american,education,higher degree
+adult,nonbinary,asian,religion,spiritual
+adult,nonbinary,asian,religion,non spirtual
+adult,nonbinary,asian,financial status,Below poverty line
+adult,nonbinary,asian,financial status,Working Class
+adult,nonbinary,asian,financial status,Middle Class
+adult,nonbinary,asian,financial status,Upper Class
+adult,nonbinary,asian,circumstance,rush
+adult,nonbinary,asian,circumstance,no rush
+adult,nonbinary,asian,marrystat,married
+adult,nonbinary,asian,marrystat,divorced
+adult,nonbinary,asian,marrystat,widowed
+adult,nonbinary,asian,marrystat,single
+adult,nonbinary,asian,education,no high school diploma
+adult,nonbinary,asian,education,high school graduate
+adult,nonbinary,asian,education,associates degree / some college
+adult,nonbinary,asian,education,college degree
+adult,nonbinary,asian,education,higher degree
+adult,nonbinary,black,religion,spiritual
+adult,nonbinary,black,religion,non spirtual
+adult,nonbinary,black,financial status,Below poverty line
+adult,nonbinary,black,financial status,Working Class
+adult,nonbinary,black,financial status,Middle Class
+adult,nonbinary,black,financial status,Upper Class
+adult,nonbinary,black,circumstance,rush
+adult,nonbinary,black,circumstance,no rush
+adult,nonbinary,black,marrystat,married
+adult,nonbinary,black,marrystat,divorced
+adult,nonbinary,black,marrystat,widowed
+adult,nonbinary,black,marrystat,single
+adult,nonbinary,black,education,no high school diploma
+adult,nonbinary,black,education,high school graduate
+adult,nonbinary,black,education,associates degree / some college
+adult,nonbinary,black,education,college degree
+adult,nonbinary,black,education,higher degree
+adult,nonbinary,hispanic,religion,spiritual
+adult,nonbinary,hispanic,religion,non spirtual
+adult,nonbinary,hispanic,financial status,Below poverty line
+adult,nonbinary,hispanic,financial status,Working Class
+adult,nonbinary,hispanic,financial status,Middle Class
+adult,nonbinary,hispanic,financial status,Upper Class
+adult,nonbinary,hispanic,circumstance,rush
+adult,nonbinary,hispanic,circumstance,no rush
+adult,nonbinary,hispanic,marrystat,married
+adult,nonbinary,hispanic,marrystat,divorced
+adult,nonbinary,hispanic,marrystat,widowed
+adult,nonbinary,hispanic,marrystat,single
+adult,nonbinary,hispanic,education,no high school diploma
+adult,nonbinary,hispanic,education,high school graduate
+adult,nonbinary,hispanic,education,associates degree / some college
+adult,nonbinary,hispanic,education,college degree
+adult,nonbinary,hispanic,education,higher degree
+adult,nonbinary,pacific islander,religion,spiritual
+adult,nonbinary,pacific islander,religion,non spirtual
+adult,nonbinary,pacific islander,financial status,Below poverty line
+adult,nonbinary,pacific islander,financial status,Working Class
+adult,nonbinary,pacific islander,financial status,Middle Class
+adult,nonbinary,pacific islander,financial status,Upper Class
+adult,nonbinary,pacific islander,circumstance,rush
+adult,nonbinary,pacific islander,circumstance,no rush
+adult,nonbinary,pacific islander,marrystat,married
+adult,nonbinary,pacific islander,marrystat,divorced
+adult,nonbinary,pacific islander,marrystat,widowed
+adult,nonbinary,pacific islander,marrystat,single
+adult,nonbinary,pacific islander,education,no high school diploma
+adult,nonbinary,pacific islander,education,high school graduate
+adult,nonbinary,pacific islander,education,associates degree / some college
+adult,nonbinary,pacific islander,education,college degree
+adult,nonbinary,pacific islander,education,higher degree
+adult,nonbinary,white,religion,spiritual
+adult,nonbinary,white,religion,non spirtual
+adult,nonbinary,white,financial status,Below poverty line
+adult,nonbinary,white,financial status,Working Class
+adult,nonbinary,white,financial status,Middle Class
+adult,nonbinary,white,financial status,Upper Class
+adult,nonbinary,white,circumstance,rush
+adult,nonbinary,white,circumstance,no rush
+adult,nonbinary,white,marrystat,married
+adult,nonbinary,white,marrystat,divorced
+adult,nonbinary,white,marrystat,widowed
+adult,nonbinary,white,marrystat,single
+adult,nonbinary,white,education,no high school diploma
+adult,nonbinary,white,education,high school graduate
+adult,nonbinary,white,education,associates degree / some college
+adult,nonbinary,white,education,college degree
+adult,nonbinary,white,education,higher degree
+adult,male,native american,religion,spiritual
+adult,male,native american,religion,non spirtual
+adult,male,native american,financial status,Below poverty line
+adult,male,native american,financial status,Working Class
+adult,male,native american,financial status,Middle Class
+adult,male,native american,financial status,Upper Class
+adult,male,native american,circumstance,rush
+adult,male,native american,circumstance,no rush
+adult,male,native american,marrystat,married
+adult,male,native american,marrystat,divorced
+adult,male,native american,marrystat,widowed
+adult,male,native american,marrystat,single
+adult,male,native american,education,no high school diploma
+adult,male,native american,education,high school graduate
+adult,male,native american,education,associates degree / some college
+adult,male,native american,education,college degree
+adult,male,native american,education,higher degree
+adult,male,asian,religion,spiritual
+adult,male,asian,religion,non spirtual
+adult,male,asian,financial status,Below poverty line
+adult,male,asian,financial status,Working Class
+adult,male,asian,financial status,Middle Class
+adult,male,asian,financial status,Upper Class
+adult,male,asian,circumstance,rush
+adult,male,asian,circumstance,no rush
+adult,male,asian,marrystat,married
+adult,male,asian,marrystat,divorced
+adult,male,asian,marrystat,widowed
+adult,male,asian,marrystat,single
+adult,male,asian,education,no high school diploma
+adult,male,asian,education,high school graduate
+adult,male,asian,education,associates degree / some college
+adult,male,asian,education,college degree
+adult,male,asian,education,higher degree
+adult,male,black,religion,spiritual
+adult,male,black,religion,non spirtual
+adult,male,black,financial status,Below poverty line
+adult,male,black,financial status,Working Class
+adult,male,black,financial status,Middle Class
+adult,male,black,financial status,Upper Class
+adult,male,black,circumstance,rush
+adult,male,black,circumstance,no rush
+adult,male,black,marrystat,married
+adult,male,black,marrystat,divorced
+adult,male,black,marrystat,widowed
+adult,male,black,marrystat,single
+adult,male,black,education,no high school diploma
+adult,male,black,education,high school graduate
+adult,male,black,education,associates degree / some college
+adult,male,black,education,college degree
+adult,male,black,education,higher degree
+adult,male,hispanic,religion,spiritual
+adult,male,hispanic,religion,non spirtual
+adult,male,hispanic,financial status,Below poverty line
+adult,male,hispanic,financial status,Working Class
+adult,male,hispanic,financial status,Middle Class
+adult,male,hispanic,financial status,Upper Class
+adult,male,hispanic,circumstance,rush
+adult,male,hispanic,circumstance,no rush
+adult,male,hispanic,marrystat,married
+adult,male,hispanic,marrystat,divorced
+adult,male,hispanic,marrystat,widowed
+adult,male,hispanic,marrystat,single
+adult,male,hispanic,education,no high school diploma
+adult,male,hispanic,education,high school graduate
+adult,male,hispanic,education,associates degree / some college
+adult,male,hispanic,education,college degree
+adult,male,hispanic,education,higher degree
+adult,male,pacific islander,religion,spiritual
+adult,male,pacific islander,religion,non spirtual
+adult,male,pacific islander,financial status,Below poverty line
+adult,male,pacific islander,financial status,Working Class
+adult,male,pacific islander,financial status,Middle Class
+adult,male,pacific islander,financial status,Upper Class
+adult,male,pacific islander,circumstance,rush
+adult,male,pacific islander,circumstance,no rush
+adult,male,pacific islander,marrystat,married
+adult,male,pacific islander,marrystat,divorced
+adult,male,pacific islander,marrystat,widowed
+adult,male,pacific islander,marrystat,single
+adult,male,pacific islander,education,no high school diploma
+adult,male,pacific islander,education,high school graduate
+adult,male,pacific islander,education,associates degree / some college
+adult,male,pacific islander,education,college degree
+adult,male,pacific islander,education,higher degree
+adult,male,white,religion,spiritual
+adult,male,white,religion,non spirtual
+adult,male,white,financial status,Below poverty line
+adult,male,white,financial status,Working Class
+adult,male,white,financial status,Middle Class
+adult,male,white,financial status,Upper Class
+adult,male,white,circumstance,rush
+adult,male,white,circumstance,no rush
+adult,male,white,marrystat,married
+adult,male,white,marrystat,divorced
+adult,male,white,marrystat,widowed
+adult,male,white,marrystat,single
+adult,male,white,education,no high school diploma
+adult,male,white,education,high school graduate
+adult,male,white,education,associates degree / some college
+adult,male,white,education,college degree
+adult,male,white,education,higher degree
+adult,female,native american,religion,spiritual
+adult,female,native american,religion,non spirtual
+adult,female,native american,financial status,Below poverty line
+adult,female,native american,financial status,Working Class
+adult,female,native american,financial status,Middle Class
+adult,female,native american,financial status,Upper Class
+adult,female,native american,circumstance,rush
+adult,female,native american,circumstance,no rush
+adult,female,native american,marrystat,married
+adult,female,native american,marrystat,divorced
+adult,female,native american,marrystat,widowed
+adult,female,native american,marrystat,single
+adult,female,native american,education,no high school diploma
+adult,female,native american,education,high school graduate
+adult,female,native american,education,associates degree / some college
+adult,female,native american,education,college degree
+adult,female,native american,education,higher degree
+adult,female,asian,religion,spiritual
+adult,female,asian,religion,non spirtual
+adult,female,asian,financial status,Below poverty line
+adult,female,asian,financial status,Working Class
+adult,female,asian,financial status,Middle Class
+adult,female,asian,financial status,Upper Class
+adult,female,asian,circumstance,rush
+adult,female,asian,circumstance,no rush
+adult,female,asian,marrystat,married
+adult,female,asian,marrystat,divorced
+adult,female,asian,marrystat,widowed
+adult,female,asian,marrystat,single
+adult,female,asian,education,no high school diploma
+adult,female,asian,education,high school graduate
+adult,female,asian,education,associates degree / some college
+adult,female,asian,education,college degree
+adult,female,asian,education,higher degree
+adult,female,black,religion,spiritual
+adult,female,black,religion,non spirtual
+adult,female,black,financial status,Below poverty line
+adult,female,black,financial status,Working Class
+adult,female,black,financial status,Middle Class
+adult,female,black,financial status,Upper Class
+adult,female,black,circumstance,rush
+adult,female,black,circumstance,no rush
+adult,female,black,marrystat,married
+adult,female,black,marrystat,divorced
+adult,female,black,marrystat,widowed
+adult,female,black,marrystat,single
+adult,female,black,education,no high school diploma
+adult,female,black,education,high school graduate
+adult,female,black,education,associates degree / some college
+adult,female,black,education,college degree
+adult,female,black,education,higher degree
+adult,female,hispanic,religion,spiritual
+adult,female,hispanic,religion,non spirtual
+adult,female,hispanic,financial status,Below poverty line
+adult,female,hispanic,financial status,Working Class
+adult,female,hispanic,financial status,Middle Class
+adult,female,hispanic,financial status,Upper Class
+adult,female,hispanic,circumstance,rush
+adult,female,hispanic,circumstance,no rush
+adult,female,hispanic,marrystat,married
+adult,female,hispanic,marrystat,divorced
+adult,female,hispanic,marrystat,widowed
+adult,female,hispanic,marrystat,single
+adult,female,hispanic,education,no high school diploma
+adult,female,hispanic,education,high school graduate
+adult,female,hispanic,education,associates degree / some college
+adult,female,hispanic,education,college degree
+adult,female,hispanic,education,higher degree
+adult,female,pacific islander,religion,spiritual
+adult,female,pacific islander,religion,non spirtual
+adult,female,pacific islander,financial status,Below poverty line
+adult,female,pacific islander,financial status,Working Class
+adult,female,pacific islander,financial status,Middle Class
+adult,female,pacific islander,financial status,Upper Class
+adult,female,pacific islander,circumstance,rush
+adult,female,pacific islander,circumstance,no rush
+adult,female,pacific islander,marrystat,married
+adult,female,pacific islander,marrystat,divorced
+adult,female,pacific islander,marrystat,widowed
+adult,female,pacific islander,marrystat,single
+adult,female,pacific islander,education,no high school diploma
+adult,female,pacific islander,education,high school graduate
+adult,female,pacific islander,education,associates degree / some college
+adult,female,pacific islander,education,college degree
+adult,female,pacific islander,education,higher degree
+adult,female,white,religion,spiritual
+adult,female,white,religion,non spirtual
+adult,female,white,financial status,Below poverty line
+adult,female,white,financial status,Working Class
+adult,female,white,financial status,Middle Class
+adult,female,white,financial status,Upper Class
+adult,female,white,circumstance,rush
+adult,female,white,circumstance,no rush
+adult,female,white,marrystat,married
+adult,female,white,marrystat,divorced
+adult,female,white,marrystat,widowed
+adult,female,white,marrystat,single
+adult,female,white,education,no high school diploma
+adult,female,white,education,high school graduate
+adult,female,white,education,associates degree / some college
+adult,female,white,education,college degree
+adult,female,white,education,higher degree
+senior citizen,nonbinary,native american,religion,spiritual
+senior citizen,nonbinary,native american,religion,non spirtual
+senior citizen,nonbinary,native american,financial status,Below poverty line
+senior citizen,nonbinary,native american,financial status,Working Class
+senior citizen,nonbinary,native american,financial status,Middle Class
+senior citizen,nonbinary,native american,financial status,Upper Class
+senior citizen,nonbinary,native american,circumstance,rush
+senior citizen,nonbinary,native american,circumstance,no rush
+senior citizen,nonbinary,native american,marrystat,married
+senior citizen,nonbinary,native american,marrystat,divorced
+senior citizen,nonbinary,native american,marrystat,widowed
+senior citizen,nonbinary,native american,marrystat,single
+senior citizen,nonbinary,native american,education,no high school diploma
+senior citizen,nonbinary,native american,education,high school graduate
+senior citizen,nonbinary,native american,education,associates degree / some college
+senior citizen,nonbinary,native american,education,college degree
+senior citizen,nonbinary,native american,education,higher degree
+senior citizen,nonbinary,asian,religion,spiritual
+senior citizen,nonbinary,asian,religion,non spirtual
+senior citizen,nonbinary,asian,financial status,Below poverty line
+senior citizen,nonbinary,asian,financial status,Working Class
+senior citizen,nonbinary,asian,financial status,Middle Class
+senior citizen,nonbinary,asian,financial status,Upper Class
+senior citizen,nonbinary,asian,circumstance,rush
+senior citizen,nonbinary,asian,circumstance,no rush
+senior citizen,nonbinary,asian,marrystat,married
+senior citizen,nonbinary,asian,marrystat,divorced
+senior citizen,nonbinary,asian,marrystat,widowed
+senior citizen,nonbinary,asian,marrystat,single
+senior citizen,nonbinary,asian,education,no high school diploma
+senior citizen,nonbinary,asian,education,high school graduate
+senior citizen,nonbinary,asian,education,associates degree / some college
+senior citizen,nonbinary,asian,education,college degree
+senior citizen,nonbinary,asian,education,higher degree
+senior citizen,nonbinary,black,religion,spiritual
+senior citizen,nonbinary,black,religion,non spirtual
+senior citizen,nonbinary,black,financial status,Below poverty line
+senior citizen,nonbinary,black,financial status,Working Class
+senior citizen,nonbinary,black,financial status,Middle Class
+senior citizen,nonbinary,black,financial status,Upper Class
+senior citizen,nonbinary,black,circumstance,rush
+senior citizen,nonbinary,black,circumstance,no rush
+senior citizen,nonbinary,black,marrystat,married
+senior citizen,nonbinary,black,marrystat,divorced
+senior citizen,nonbinary,black,marrystat,widowed
+senior citizen,nonbinary,black,marrystat,single
+senior citizen,nonbinary,black,education,no high school diploma
+senior citizen,nonbinary,black,education,high school graduate
+senior citizen,nonbinary,black,education,associates degree / some college
+senior citizen,nonbinary,black,education,college degree
+senior citizen,nonbinary,black,education,higher degree
+senior citizen,nonbinary,hispanic,religion,spiritual
+senior citizen,nonbinary,hispanic,religion,non spirtual
+senior citizen,nonbinary,hispanic,financial status,Below poverty line
+senior citizen,nonbinary,hispanic,financial status,Working Class
+senior citizen,nonbinary,hispanic,financial status,Middle Class
+senior citizen,nonbinary,hispanic,financial status,Upper Class
+senior citizen,nonbinary,hispanic,circumstance,rush
+senior citizen,nonbinary,hispanic,circumstance,no rush
+senior citizen,nonbinary,hispanic,marrystat,married
+senior citizen,nonbinary,hispanic,marrystat,divorced
+senior citizen,nonbinary,hispanic,marrystat,widowed
+senior citizen,nonbinary,hispanic,marrystat,single
+senior citizen,nonbinary,hispanic,education,no high school diploma
+senior citizen,nonbinary,hispanic,education,high school graduate
+senior citizen,nonbinary,hispanic,education,associates degree / some college
+senior citizen,nonbinary,hispanic,education,college degree
+senior citizen,nonbinary,hispanic,education,higher degree
+senior citizen,nonbinary,pacific islander,religion,spiritual
+senior citizen,nonbinary,pacific islander,religion,non spirtual
+senior citizen,nonbinary,pacific islander,financial status,Below poverty line
+senior citizen,nonbinary,pacific islander,financial status,Working Class
+senior citizen,nonbinary,pacific islander,financial status,Middle Class
+senior citizen,nonbinary,pacific islander,financial status,Upper Class
+senior citizen,nonbinary,pacific islander,circumstance,rush
+senior citizen,nonbinary,pacific islander,circumstance,no rush
+senior citizen,nonbinary,pacific islander,marrystat,married
+senior citizen,nonbinary,pacific islander,marrystat,divorced
+senior citizen,nonbinary,pacific islander,marrystat,widowed
+senior citizen,nonbinary,pacific islander,marrystat,single
+senior citizen,nonbinary,pacific islander,education,no high school diploma
+senior citizen,nonbinary,pacific islander,education,high school graduate
+senior citizen,nonbinary,pacific islander,education,associates degree / some college
+senior citizen,nonbinary,pacific islander,education,college degree
+senior citizen,nonbinary,pacific islander,education,higher degree
+senior citizen,nonbinary,white,religion,spiritual
+senior citizen,nonbinary,white,religion,non spirtual
+senior citizen,nonbinary,white,financial status,Below poverty line
+senior citizen,nonbinary,white,financial status,Working Class
+senior citizen,nonbinary,white,financial status,Middle Class
+senior citizen,nonbinary,white,financial status,Upper Class
+senior citizen,nonbinary,white,circumstance,rush
+senior citizen,nonbinary,white,circumstance,no rush
+senior citizen,nonbinary,white,marrystat,married
+senior citizen,nonbinary,white,marrystat,divorced
+senior citizen,nonbinary,white,marrystat,widowed
+senior citizen,nonbinary,white,marrystat,single
+senior citizen,nonbinary,white,education,no high school diploma
+senior citizen,nonbinary,white,education,high school graduate
+senior citizen,nonbinary,white,education,associates degree / some college
+senior citizen,nonbinary,white,education,college degree
+senior citizen,nonbinary,white,education,higher degree
+senior citizen,male,native american,religion,spiritual
+senior citizen,male,native american,religion,non spirtual
+senior citizen,male,native american,financial status,Below poverty line
+senior citizen,male,native american,financial status,Working Class
+senior citizen,male,native american,financial status,Middle Class
+senior citizen,male,native american,financial status,Upper Class
+senior citizen,male,native american,circumstance,rush
+senior citizen,male,native american,circumstance,no rush
+senior citizen,male,native american,marrystat,married
+senior citizen,male,native american,marrystat,divorced
+senior citizen,male,native american,marrystat,widowed
+senior citizen,male,native american,marrystat,single
+senior citizen,male,native american,education,no high school diploma
+senior citizen,male,native american,education,high school graduate
+senior citizen,male,native american,education,associates degree / some college
+senior citizen,male,native american,education,college degree
+senior citizen,male,native american,education,higher degree
+senior citizen,male,asian,religion,spiritual
+senior citizen,male,asian,religion,non spirtual
+senior citizen,male,asian,financial status,Below poverty line
+senior citizen,male,asian,financial status,Working Class
+senior citizen,male,asian,financial status,Middle Class
+senior citizen,male,asian,financial status,Upper Class
+senior citizen,male,asian,circumstance,rush
+senior citizen,male,asian,circumstance,no rush
+senior citizen,male,asian,marrystat,married
+senior citizen,male,asian,marrystat,divorced
+senior citizen,male,asian,marrystat,widowed
+senior citizen,male,asian,marrystat,single
+senior citizen,male,asian,education,no high school diploma
+senior citizen,male,asian,education,high school graduate
+senior citizen,male,asian,education,associates degree / some college
+senior citizen,male,asian,education,college degree
+senior citizen,male,asian,education,higher degree
+senior citizen,male,black,religion,spiritual
+senior citizen,male,black,religion,non spirtual
+senior citizen,male,black,financial status,Below poverty line
+senior citizen,male,black,financial status,Working Class
+senior citizen,male,black,financial status,Middle Class
+senior citizen,male,black,financial status,Upper Class
+senior citizen,male,black,circumstance,rush
+senior citizen,male,black,circumstance,no rush
+senior citizen,male,black,marrystat,married
+senior citizen,male,black,marrystat,divorced
+senior citizen,male,black,marrystat,widowed
+senior citizen,male,black,marrystat,single
+senior citizen,male,black,education,no high school diploma
+senior citizen,male,black,education,high school graduate
+senior citizen,male,black,education,associates degree / some college
+senior citizen,male,black,education,college degree
+senior citizen,male,black,education,higher degree
+senior citizen,male,hispanic,religion,spiritual
+senior citizen,male,hispanic,religion,non spirtual
+senior citizen,male,hispanic,financial status,Below poverty line
+senior citizen,male,hispanic,financial status,Working Class
+senior citizen,male,hispanic,financial status,Middle Class
+senior citizen,male,hispanic,financial status,Upper Class
+senior citizen,male,hispanic,circumstance,rush
+senior citizen,male,hispanic,circumstance,no rush
+senior citizen,male,hispanic,marrystat,married
+senior citizen,male,hispanic,marrystat,divorced
+senior citizen,male,hispanic,marrystat,widowed
+senior citizen,male,hispanic,marrystat,single
+senior citizen,male,hispanic,education,no high school diploma
+senior citizen,male,hispanic,education,high school graduate
+senior citizen,male,hispanic,education,associates degree / some college
+senior citizen,male,hispanic,education,college degree
+senior citizen,male,hispanic,education,higher degree
+senior citizen,male,pacific islander,religion,spiritual
+senior citizen,male,pacific islander,religion,non spirtual
+senior citizen,male,pacific islander,financial status,Below poverty line
+senior citizen,male,pacific islander,financial status,Working Class
+senior citizen,male,pacific islander,financial status,Middle Class
+senior citizen,male,pacific islander,financial status,Upper Class
+senior citizen,male,pacific islander,circumstance,rush
+senior citizen,male,pacific islander,circumstance,no rush
+senior citizen,male,pacific islander,marrystat,married
+senior citizen,male,pacific islander,marrystat,divorced
+senior citizen,male,pacific islander,marrystat,widowed
+senior citizen,male,pacific islander,marrystat,single
+senior citizen,male,pacific islander,education,no high school diploma
+senior citizen,male,pacific islander,education,high school graduate
+senior citizen,male,pacific islander,education,associates degree / some college
+senior citizen,male,pacific islander,education,college degree
+senior citizen,male,pacific islander,education,higher degree
+senior citizen,male,white,religion,spiritual
+senior citizen,male,white,religion,non spirtual
+senior citizen,male,white,financial status,Below poverty line
+senior citizen,male,white,financial status,Working Class
+senior citizen,male,white,financial status,Middle Class
+senior citizen,male,white,financial status,Upper Class
+senior citizen,male,white,circumstance,rush
+senior citizen,male,white,circumstance,no rush
+senior citizen,male,white,marrystat,married
+senior citizen,male,white,marrystat,divorced
+senior citizen,male,white,marrystat,widowed
+senior citizen,male,white,marrystat,single
+senior citizen,male,white,education,no high school diploma
+senior citizen,male,white,education,high school graduate
+senior citizen,male,white,education,associates degree / some college
+senior citizen,male,white,education,college degree
+senior citizen,male,white,education,higher degree
+senior citizen,female,native american,religion,spiritual
+senior citizen,female,native american,religion,non spirtual
+senior citizen,female,native american,financial status,Below poverty line
+senior citizen,female,native american,financial status,Working Class
+senior citizen,female,native american,financial status,Middle Class
+senior citizen,female,native american,financial status,Upper Class
+senior citizen,female,native american,circumstance,rush
+senior citizen,female,native american,circumstance,no rush
+senior citizen,female,native american,marrystat,married
+senior citizen,female,native american,marrystat,divorced
+senior citizen,female,native american,marrystat,widowed
+senior citizen,female,native american,marrystat,single
+senior citizen,female,native american,education,no high school diploma
+senior citizen,female,native american,education,high school graduate
+senior citizen,female,native american,education,associates degree / some college
+senior citizen,female,native american,education,college degree
+senior citizen,female,native american,education,higher degree
+senior citizen,female,asian,religion,spiritual
+senior citizen,female,asian,religion,non spirtual
+senior citizen,female,asian,financial status,Below poverty line
+senior citizen,female,asian,financial status,Working Class
+senior citizen,female,asian,financial status,Middle Class
+senior citizen,female,asian,financial status,Upper Class
+senior citizen,female,asian,circumstance,rush
+senior citizen,female,asian,circumstance,no rush
+senior citizen,female,asian,marrystat,married
+senior citizen,female,asian,marrystat,divorced
+senior citizen,female,asian,marrystat,widowed
+senior citizen,female,asian,marrystat,single
+senior citizen,female,asian,education,no high school diploma
+senior citizen,female,asian,education,high school graduate
+senior citizen,female,asian,education,associates degree / some college
+senior citizen,female,asian,education,college degree
+senior citizen,female,asian,education,higher degree
+senior citizen,female,black,religion,spiritual
+senior citizen,female,black,religion,non spirtual
+senior citizen,female,black,financial status,Below poverty line
+senior citizen,female,black,financial status,Working Class
+senior citizen,female,black,financial status,Middle Class
+senior citizen,female,black,financial status,Upper Class
+senior citizen,female,black,circumstance,rush
+senior citizen,female,black,circumstance,no rush
+senior citizen,female,black,marrystat,married
+senior citizen,female,black,marrystat,divorced
+senior citizen,female,black,marrystat,widowed
+senior citizen,female,black,marrystat,single
+senior citizen,female,black,education,no high school diploma
+senior citizen,female,black,education,high school graduate
+senior citizen,female,black,education,associates degree / some college
+senior citizen,female,black,education,college degree
+senior citizen,female,black,education,higher degree
+senior citizen,female,hispanic,religion,spiritual
+senior citizen,female,hispanic,religion,non spirtual
+senior citizen,female,hispanic,financial status,Below poverty line
+senior citizen,female,hispanic,financial status,Working Class
+senior citizen,female,hispanic,financial status,Middle Class
+senior citizen,female,hispanic,financial status,Upper Class
+senior citizen,female,hispanic,circumstance,rush
+senior citizen,female,hispanic,circumstance,no rush
+senior citizen,female,hispanic,marrystat,married
+senior citizen,female,hispanic,marrystat,divorced
+senior citizen,female,hispanic,marrystat,widowed
+senior citizen,female,hispanic,marrystat,single
+senior citizen,female,hispanic,education,no high school diploma
+senior citizen,female,hispanic,education,high school graduate
+senior citizen,female,hispanic,education,associates degree / some college
+senior citizen,female,hispanic,education,college degree
+senior citizen,female,hispanic,education,higher degree
+senior citizen,female,pacific islander,religion,spiritual
+senior citizen,female,pacific islander,religion,non spirtual
+senior citizen,female,pacific islander,financial status,Below poverty line
+senior citizen,female,pacific islander,financial status,Working Class
+senior citizen,female,pacific islander,financial status,Middle Class
+senior citizen,female,pacific islander,financial status,Upper Class
+senior citizen,female,pacific islander,circumstance,rush
+senior citizen,female,pacific islander,circumstance,no rush
+senior citizen,female,pacific islander,marrystat,married
+senior citizen,female,pacific islander,marrystat,divorced
+senior citizen,female,pacific islander,marrystat,widowed
+senior citizen,female,pacific islander,marrystat,single
+senior citizen,female,pacific islander,education,no high school diploma
+senior citizen,female,pacific islander,education,high school graduate
+senior citizen,female,pacific islander,education,associates degree / some college
+senior citizen,female,pacific islander,education,college degree
+senior citizen,female,pacific islander,education,higher degree
+senior citizen,female,white,religion,spiritual
+senior citizen,female,white,religion,non spirtual
+senior citizen,female,white,financial status,Below poverty line
+senior citizen,female,white,financial status,Working Class
+senior citizen,female,white,financial status,Middle Class
+senior citizen,female,white,financial status,Upper Class
+senior citizen,female,white,circumstance,rush
+senior citizen,female,white,circumstance,no rush
+senior citizen,female,white,marrystat,married
+senior citizen,female,white,marrystat,divorced
+senior citizen,female,white,marrystat,widowed
+senior citizen,female,white,marrystat,single
+senior citizen,female,white,education,no high school diploma
+senior citizen,female,white,education,high school graduate
+senior citizen,female,white,education,associates degree / some college
+senior citizen,female,white,education,college degree
+senior citizen,female,white,education,higher degree
