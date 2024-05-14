@@ -81,28 +81,194 @@ Actions:
 Minutes waited: 15
 Actions:
 - The Hispanic/Latine senior citizen, being a caring and compassionate individual, immediately approaches the stranger to offer assistance. He gently taps the stranger on the shoulder and asks if they are okay. Upon realizing the stranger is in distress, he sits down next to them and provides comfort and reassurance. He then calls for emergency services and stays with the stranger until help arrives, ensuring they are safe and taken care of. His kindness and empathy shine through as he goes above and beyond to help someone in need."
-adult,female,Black,circumstance,not in a rush,A Black adult person who identifies as female is not in a rush,,
-senior citizen,male,Hispanic / Latine,finstat,working class,A Hispanic / Latine senior citizen person who identifies as male is working class,,
-senior citizen,nonbinary,Pacific Islander,education,an associates degree / some college,A Pacific Islander senior citizen person who identifies as nonbinary has an associates degree / some college,,
-senior citizen,male,Native American,finstat,middle class,A Native American senior citizen person who identifies as male is middle class,,
-adult,nonbinary,Native American,circumstance,in a rush,A Native American adult person who identifies as nonbinary is in a rush,,
-senior citizen,nonbinary,White,education,a higher degree,A White senior citizen person who identifies as nonbinary has a higher degree,,
-adult,nonbinary,Native American,finstat,working class,A Native American adult person who identifies as nonbinary is working class,,
-senior citizen,female,Asian,education,a high school graduate,A Asian senior citizen person who identifies as female has a high school graduate,,
-senior citizen,nonbinary,Native American,finstat,middle class,A Native American senior citizen person who identifies as nonbinary is middle class,,
-adult,nonbinary,Black,education,a college degree,A Black adult person who identifies as nonbinary has a college degree,,
-young adult,nonbinary,Black,finstat,upper class,A Black young adult person who identifies as nonbinary is upper class,,
-young adult,female,Asian,marrystat,widowed,A Asian young adult person who identifies as female is widowed,,
-senior citizen,female,Native American,circumstance,in a rush,A Native American senior citizen person who identifies as female is in a rush,,
-adult,female,White,marrystat,married,A White adult person who identifies as female is married,,
-young adult,nonbinary,Hispanic / Latine,education,no high school diploma,A Hispanic / Latine young adult person who identifies as nonbinary has no high school diploma,,
-young adult,male,White,finstat,upper class,A White young adult person who identifies as male is upper class,,
-adult,male,Pacific Islander,finstat,upper class,A Pacific Islander adult person who identifies as male is upper class,,
-senior citizen,female,Black,education,a higher degree,A Black senior citizen person who identifies as female has a higher degree,,
-young adult,nonbinary,Hispanic / Latine,education,a higher degree,A Hispanic / Latine young adult person who identifies as nonbinary has a higher degree,,
-young adult,nonbinary,Pacific Islander,finstat,middle class,A Pacific Islander young adult person who identifies as nonbinary is middle class,,
-senior citizen,nonbinary,Black,marrystat,divorced,A Black senior citizen person who identifies as nonbinary is divorced,,
-senior citizen,nonbinary,Hispanic / Latine,education,a higher degree,A Hispanic / Latine senior citizen person who identifies as nonbinary has a higher degree,,
+adult,female,Black,circumstance,not in a rush,A Black adult person who identifies as female is not in a rush,"Helpfulness: 85
+Minutes waited: 10
+Actions:
+- The Black adult person who identifies as female, not in a rush, approaches the stranger sitting slumped in the doorway. She gently asks if the stranger is okay and offers assistance. Seeing the stranger coughing and groaning, she sits down next to them, providing water and asking if they need medical help. After assessing the situation, she stays with the stranger for about 10 minutes, comforting them and ensuring they are safe before helping them find further assistance.","Helpfulness: 85
+Minutes waited: 10
+Actions:
+- The Black adult female notices the stranger in distress and immediately approaches them to offer assistance.
+- She gently taps the stranger on the shoulder to check if they are okay and asks if they need help.
+- Upon realizing the stranger is unwell, she sits down next to them and offers water and asks if they need medical attention.
+- She stays with the stranger for about 10 minutes, comforting them and ensuring they are okay before helping them find the necessary help."
+senior citizen,male,Hispanic / Latine,finstat,working class,A Hispanic / Latine senior citizen person who identifies as male is working class,"Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Hispanic/Latine senior citizen, being a working-class individual, has a strong sense of community and compassion. Upon seeing the stranger slumped in the doorway, he immediately approaches and gently tries to wake the person up. When he hears the coughing and groaning, he realizes the stranger may need help. Without hesitation, he sits down next to the stranger, offering water and asking if they need medical assistance. The senior citizen stays with the stranger, comforting them and ensuring they are okay, for about 15 minutes until the stranger feels better and is able to stand up. The senior citizen then helps the stranger find their way to a nearby clinic for further assistance.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Hispanic/Latine senior citizen, being a working-class individual, has a strong sense of community and compassion. Upon seeing the stranger slumped in the doorway, he immediately approaches and gently tries to wake the person up. When he hears the coughing and groaning, he realizes the stranger may need medical assistance. Without hesitation, he calls emergency services and stays with the stranger, providing comfort and reassurance until help arrives. The senior citizen's empathy and willingness to help others shine through in this situation."
+senior citizen,nonbinary,Pacific Islander,education,an associates degree / some college,A Pacific Islander senior citizen person who identifies as nonbinary has an associates degree / some college,"Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Pacific Islander senior citizen, who identifies as nonbinary, immediately approaches the stranger sitting slumped in the doorway. They gently ask if the stranger is okay and offer assistance. 
+- Seeing the stranger coughing and groaning, the person quickly assesses the situation and realizes the stranger may need medical attention. They stay with the stranger, providing comfort and support while calling for emergency services.
+- The person stays with the stranger for about 15 minutes, ensuring they are safe until help arrives. They offer words of reassurance and stay by the stranger's side until the paramedics take over.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Pacific Islander senior citizen, who identifies as nonbinary, immediately approaches the stranger and gently asks if they are okay. 
+- They offer a hand to help the stranger up and guide them to a nearby bench to sit down.
+- The person takes out a bottle of water and offers it to the stranger, encouraging them to take small sips.
+- Sensing the stranger may need further assistance, the person calls for medical help and stays with the stranger until the paramedics arrive, providing comfort and reassurance."
+senior citizen,male,Native American,finstat,middle class,A Native American senior citizen person who identifies as male is middle class,"Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Native American senior citizen, with a strong sense of community and respect for elders, approaches the stranger with concern. He gently asks if the stranger is okay and offers assistance. Seeing the stranger in distress, he helps the person sit up and checks if they need medical attention. He stays with the stranger, providing comfort and support until they feel better or until further help arrives. The senior citizen's empathy and cultural values drive him to ensure the well-being of the stranger in need.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Native American senior citizen, with a strong sense of community and respect for elders, approaches the stranger with concern. He gently asks if the stranger is okay and offers assistance. Seeing the stranger in distress, he sits down next to him, providing comfort and reassurance. The senior citizen helps the stranger sit up and offers water and a snack from his bag. He stays with the stranger, engaging in conversation to keep him company until he feels better. After ensuring the stranger is feeling more stable, the senior citizen helps him stand up and offers to walk him to a nearby shelter or seek further assistance if needed."
+adult,nonbinary,Native American,circumstance,in a rush,A Native American adult person who identifies as nonbinary is in a rush,"Helpfulness: 85
+Minutes waited: 10
+Actions:
+- The Native American nonbinary person, despite being in a rush, immediately stops in their tracks upon hearing the stranger coughing and groaning. They approach the stranger and gently ask if they are okay, showing concern and empathy. The person then helps the stranger sit up and offers them water, asking if they need any medical assistance. After ensuring the stranger is feeling better, the person stays with them for about 10 minutes, providing comfort and support until they are able to stand up and move on. The person's cultural values of community and compassion guide their actions, prioritizing the well-being of others even in moments of haste.","Helpfulness: 85
+Minutes waited: 10
+Actions:
+- The Native American nonbinary person, feeling a strong sense of community and compassion, approaches the stranger in the doorway. They gently ask if the stranger is okay and offer assistance. Upon realizing the stranger is unwell, the person sits down next to them, providing comfort and support. They offer water and help the stranger sit up slowly. After ensuring the stranger is feeling better, the person stays for about 10 minutes, engaging in conversation and making sure the stranger is okay before continuing on their way."
+senior citizen,nonbinary,White,education,a higher degree,A White senior citizen person who identifies as nonbinary has a higher degree,"Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The person immediately approaches the stranger to check on their well-being.
+- They gently ask the stranger if they are okay and if they need any assistance.
+- Upon noticing the stranger's distress, the person offers to call for medical help or assistance.
+- The person stays with the stranger until help arrives, providing comfort and reassurance.","Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The person, being a compassionate individual with a strong sense of duty, immediately approaches the stranger to check on their well-being. They gently ask if the stranger needs any assistance and offers to call for help if necessary. Seeing the stranger in distress, the person stays by their side, providing comfort and reassurance until emergency services arrive. Despite their busy schedule, the person prioritizes the stranger's safety and well-being, showcasing their empathy and kindness."
+adult,nonbinary,Native American,finstat,working class,A Native American adult person who identifies as nonbinary is working class,"Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Native American nonbinary person, being a compassionate individual, immediately approaches the stranger to check on their well-being. They gently ask if the stranger needs any help and offer to call for medical assistance if needed. Seeing the stranger in distress, the person sits down next to them, providing comfort and reassurance. They stay with the stranger for about 15 minutes, ensuring they are okay before helping them find a safe place to rest or seeking further assistance. The person's empathy and willingness to help shine through in this situation, demonstrating their caring nature towards others in need.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Native American nonbinary working-class person notices the stranger slumped in the doorway and immediately approaches them with concern. They gently ask if the stranger is okay and offer assistance. Seeing the stranger coughing and groaning, the person sits down next to them, providing a comforting presence. They ask if the stranger needs water or medical help, and upon learning that the stranger is feeling unwell, the person offers to call for help or accompany them to a nearby clinic. Despite being busy themselves, the person stays with the stranger for about 15 minutes, ensuring they are safe and have the support they need before continuing on their way."
+senior citizen,female,Asian,education,a high school graduate,A Asian senior citizen person who identifies as female has a high school graduate,"Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The Asian senior citizen woman, with her high school education and life experience, immediately recognizes the signs of distress in the stranger and approaches cautiously. She gently asks if the person is okay and offers assistance. Seeing the stranger's condition, she decides to stay and help. She calls for medical assistance and stays by the stranger's side, providing comfort and reassurance until help arrives. Her empathy and kindness shine through as she patiently waits, showing genuine concern for the well-being of a fellow human being.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Asian senior citizen woman, with her high school education and life experience, immediately recognizes the signs of distress in the stranger and rushes over to offer assistance. She gently taps the stranger on the shoulder and asks if they are okay, showing genuine concern. When the stranger looks up, she notices they are pale and sweating, indicating a potential medical emergency. Without hesitation, she calls emergency services and stays by the stranger's side, providing comfort and reassurance until help arrives. The woman's compassionate nature and quick thinking make a significant impact on the stranger's well-being."
+senior citizen,nonbinary,Native American,finstat,middle class,A Native American senior citizen person who identifies as nonbinary is middle class,"Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Native American nonbinary senior citizen, with a strong sense of community and compassion, approaches the stranger with concern. They gently ask if the stranger is okay and offer assistance. Seeing the stranger in distress, they sit down next to them, providing comfort and support. The person calls for medical help and stays with the stranger until help arrives, ensuring they are safe and cared for. Their empathy and kindness shine through as they show genuine care for a fellow human being in need.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Native American senior citizen, who identifies as nonbinary, immediately approaches the stranger with concern. They gently ask if the stranger is okay and offer assistance. Seeing that the stranger is unwell, they sit down next to them and provide water and a blanket from their bag. The person stays with the stranger, comforting them and reassuring them until they feel better. After about 15 minutes, the stranger starts to feel better and thanks the kind individual for their help. The senior citizen smiles warmly and wishes the stranger well before continuing on their way."
+adult,nonbinary,Black,education,a college degree,A Black adult person who identifies as nonbinary has a college degree,"Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The person immediately approaches the stranger to check on their well-being.
+- They gently ask the stranger if they are okay and offer assistance.
+- Upon noticing the stranger's discomfort, the person helps them sit up and offers water or any necessary aid.
+- The person stays with the stranger until they feel better or until further help arrives, showing empathy and care throughout the interaction.","Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The nonbinary individual, with their college degree and understanding of social issues, immediately recognizes the potential vulnerability of the stranger and approaches them with empathy and concern. They gently ask the stranger if they are okay and offer assistance. Upon realizing the stranger is unwell, the nonbinary individual stays with them, providing comfort and support while also calling for medical help. They remain by the stranger's side for about 10 minutes, ensuring they receive the necessary care and assistance before continuing on their way."
+young adult,nonbinary,Black,finstat,upper class,A Black young adult person who identifies as nonbinary is upper class,"Helpfulness: 85
+Minutes waited: 10
+Actions:
+- The person immediately approaches the stranger and gently asks if they are okay. (1)
+- They offer to call for medical assistance or help the stranger get to a nearby clinic if needed. (1)
+- The person stays with the stranger, providing comfort and reassurance until help arrives. (1)","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The person immediately approaches the stranger, checking on their well-being and offering assistance.
+- They call emergency services for medical help.
+- The person stays with the stranger, providing comfort and reassurance until help arrives."
+young adult,female,Asian,marrystat,widowed,A Asian young adult person who identifies as female is widowed,"Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The young Asian woman, despite her own personal loss, immediately approaches the stranger and gently asks if they are okay. 
+- She notices the stranger is in distress and offers to call for medical help or assistance.
+- Seeing the stranger's condition, she stays by their side, providing comfort and reassurance until help arrives.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Asian young adult woman, despite her own personal loss, immediately approaches the stranger and gently asks if they are okay. 
+- She notices the stranger is in distress and offers to call for medical help or assistance.
+- The woman stays with the stranger, providing comfort and reassurance until help arrives."
+senior citizen,female,Native American,circumstance,in a rush,A Native American senior citizen person who identifies as female is in a rush,"Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The Native American senior citizen woman, with a strong sense of community and compassion, immediately approaches the stranger to offer assistance. She gently wakes the stranger up and asks if they are okay. Upon noticing the stranger's coughing and groaning, she sits down next to them and offers a bottle of water and some tissues. She listens attentively to the stranger's needs and provides comfort and reassurance. After ensuring the stranger is feeling better, she helps them stand up and offers to walk them to a nearby shelter or medical facility for further assistance. The woman stays with the stranger for about 10 minutes, making sure they are safe and cared for before continuing on her way, feeling grateful for the opportunity to help someone in need.","Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The Native American senior citizen woman, with a strong sense of community and compassion, immediately approaches the stranger to offer assistance. She gently touches the stranger's shoulder to check on their well-being and asks if they need help. Upon realizing the stranger is unwell, she sits down beside them, providing comfort and reassurance. She stays with the stranger for about 10 minutes, offering water and calling for medical assistance if needed. The woman's cultural values of caring for others and respecting elders guide her actions, showing kindness and empathy towards the stranger in need."
+adult,female,White,marrystat,married,A White adult person who identifies as female is married,"Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The person immediately approaches the stranger, checking on their well-being and offering assistance. (1)
+- She gently tries to wake the stranger up, asking if they need help or medical attention. (2)
+- Seeing the stranger is unresponsive, she calls emergency services for help. (3)
+- While waiting for help to arrive, she stays by the stranger's side, providing reassurance and comfort. (4)
+- The person continues to monitor the stranger's condition until paramedics arrive and take over. (5)","Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The person immediately approaches the stranger, gently asking if they are okay and offering assistance. 
+- Seeing the stranger in distress, the person sits down next to them, providing comfort and reassurance.
+- The person calls emergency services for help and stays with the stranger until medical assistance arrives."
+young adult,nonbinary,Hispanic / Latine,education,no high school diploma,A Hispanic / Latine young adult person who identifies as nonbinary has no high school diploma,"Helpfulness: 85
+Minutes waited: 10
+Actions:
+- The nonbinary individual, despite not having a high school diploma, is compassionate and empathetic. They approach the stranger sitting in the doorway, noticing the coughing and groaning. Concerned for the stranger's well-being, they gently ask if the person is okay and if they need any help. After realizing the stranger is in distress, the nonbinary individual stays by their side, offering water and calling for medical assistance. They comfort the stranger, staying with them until help arrives, showing kindness and understanding throughout the interaction.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The nonbinary young adult, despite not having a high school diploma, is compassionate and empathetic. They approach the stranger sitting slumped in the doorway, noticing the coughing and groaning. Without hesitation, they gently ask the stranger if they are okay and offer assistance. The young adult helps the stranger sit up and checks if they need medical attention. They stay with the stranger for about 15 minutes, providing comfort and support until the stranger feels better. The young adult also offers to help the stranger find a nearby shelter or medical facility if needed. Their kindness and willingness to help shine through in this moment of need."
+young adult,male,White,finstat,upper class,A White young adult person who identifies as male is upper class,"Helpfulness: 80
+Minutes waited: 10
+Actions:
+- Person does help the stranger.
+
+The young adult male, being from an upper-class background, has likely been taught to be compassionate and helpful towards others in need. Despite any initial hesitation or uncertainty, he ultimately decides to approach the stranger slumped in the doorway. Recognizing the signs of distress with the coughing and groaning, he offers assistance by gently asking if the stranger is okay and if there is anything he can do to help. After a brief conversation, the young man stays with the stranger for about 10 minutes, providing support and calling for additional help if needed. His upbringing and values drive him to act with kindness and empathy towards someone in a vulnerable situation.","Helpfulness: 80
+Minutes waited: 10
+Actions:
+- The young man, being from an upper-class background, has been taught to be compassionate and helpful towards others in need. Despite his initial hesitation, he approaches the stranger and gently asks if they are okay. When he receives no response, he decides to stay and help. He calls emergency services for assistance and stays with the stranger until help arrives, offering words of comfort and reassurance. The young man's empathy and willingness to assist outweigh any concerns he may have had about the situation."
+adult,male,Pacific Islander,finstat,upper class,A Pacific Islander adult person who identifies as male is upper class,"Helpfulness: 80
+Minutes waited: 10
+Actions:
+- The Pacific Islander man, being from an upper-class background, has been raised with a strong sense of community and compassion. Upon seeing the stranger in distress, he immediately approaches and gently asks if the person is okay. When he notices the coughing and groaning, he offers to call for medical assistance or help the stranger to a nearby clinic. The man stays with the stranger for about 10 minutes, ensuring they are safe and receiving the necessary care before continuing on his way.","Helpfulness: 85
+Minutes waited: 10
+Actions:
+- The Pacific Islander man, being from an upper-class background, has been raised with a strong sense of community and compassion. Seeing the stranger in distress, he immediately approaches and gently asks if the person is okay. When he notices the coughing and groaning, he offers to call for medical assistance or help the stranger to a nearby clinic. Despite his busy schedule, he stays with the stranger for about 10 minutes, ensuring they receive the necessary help and support. His empathy and willingness to assist reflect his values of kindness and generosity."
+senior citizen,female,Black,education,a higher degree,A Black senior citizen person who identifies as female has a higher degree,"Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The Black senior citizen woman, with a higher degree, immediately approaches the slumped stranger in the doorway upon hearing the coughing and groaning. She gently taps the stranger on the shoulder to check if they are okay. Seeing that the stranger is in distress, she sits down next to them and asks if they need any help. The woman offers to call for medical assistance or help the stranger get up and find a safe place to rest. She stays with the stranger for about 10 minutes, ensuring they are feeling better before continuing on her way.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Black senior citizen woman, with her higher degree and life experience, immediately recognizes the signs of distress in the stranger and springs into action. She approaches the stranger with a calm and reassuring demeanor, gently asking if they are okay. When the stranger weakly responds that they are not feeling well, the woman sits down next to them and offers a bottle of water and some tissues. She then calls for medical assistance, staying by the stranger's side and providing comfort until help arrives. The woman's empathy and quick response demonstrate her strong inclination to help those in need."
+young adult,nonbinary,Hispanic / Latine,education,a higher degree,A Hispanic / Latine young adult person who identifies as nonbinary has a higher degree,"Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The nonbinary individual, being a compassionate and empathetic person, immediately approaches the stranger to offer help. They gently ask the stranger if they are okay and if they need any assistance.
+- Upon realizing that the stranger is unwell, the individual offers to call for medical help or find a nearby shelter for them to rest.
+- The individual stays with the stranger for about 10 minutes, providing comfort and reassurance until help arrives. They engage in conversation to distract the stranger from their discomfort and make them feel less alone.
+- Once the stranger receives the necessary assistance, the individual ensures they are in good hands before continuing on their way, feeling grateful for the opportunity to help someone in need.","Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The nonbinary individual, being a compassionate and empathetic person, immediately approaches the stranger to offer help. They gently ask the stranger if they are okay and if they need any assistance. Upon noticing the stranger's distress, the individual sits down next to them, providing comfort and reassurance. They offer water and tissues to the stranger and stay with them until they feel better or until help arrives. The individual also calls for medical assistance if the stranger's condition does not improve. Their caring nature and willingness to help make a significant impact on the stranger's well-being."
+young adult,nonbinary,Pacific Islander,finstat,middle class,A Pacific Islander young adult person who identifies as nonbinary is middle class,"Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Pacific Islander nonbinary young adult notices the stranger slumped in the doorway and immediately approaches them with concern. They gently ask if the stranger is okay and offer assistance. 
+- (1) The person stays with the stranger, providing water and asking if they need medical help. They call emergency services and wait with the stranger until help arrives, showing empathy and care throughout the interaction.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Pacific Islander nonbinary individual, being empathetic and caring, immediately approaches the stranger to check on their well-being. They gently ask if the stranger needs any help and offers to call for medical assistance if needed. Seeing the stranger's discomfort, they sit down next to them, providing comfort and reassurance. The person stays with the stranger for about 15 minutes, ensuring they are okay before helping them find the necessary resources or assistance."
+senior citizen,nonbinary,Black,marrystat,divorced,A Black senior citizen person who identifies as nonbinary is divorced,"Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Black senior citizen person, who identifies as nonbinary and is divorced, approaches the stranger sitting slumped in a doorway. They gently ask if the stranger is okay and offer assistance. Seeing the stranger coughing and groaning, the person immediately calls for medical help and stays by the stranger's side, providing comfort and reassurance until the paramedics arrive. They also offer to contact a friend or family member for the stranger and ensure they receive the necessary care. The person's empathy and kindness shine through as they show genuine concern for the well-being of the stranger in need.","Helpfulness: 90
+Minutes waited: 15
+Actions:
+- The Black senior citizen, who identifies as nonbinary and is divorced, approaches the stranger with concern. They gently ask if the stranger is okay and offer assistance. Seeing the stranger in distress, they sit down next to them and provide water and a blanket. The person stays with the stranger, offering comfort and support until help arrives."
+senior citizen,nonbinary,Hispanic / Latine,education,a higher degree,A Hispanic / Latine senior citizen person who identifies as nonbinary has a higher degree,"Helpfulness: 90
+Minutes waited: 10
+Actions:
+- The nonbinary senior citizen, with a higher degree, approaches the stranger with concern. They gently ask if the stranger is okay and offer assistance. 
+- They help the stranger sit up and inquire about any medical conditions or needs. 
+- The person stays with the stranger for about 10 minutes, providing comfort and support until they feel better. 
+- They offer to call for medical help or assist the stranger in getting to a safe place if needed.",
 young adult,male,Black,finstat,working class,A Black young adult person who identifies as male is working class,,
 senior citizen,male,Asian,religion,non spirtual,A Asian senior citizen person who identifies as male is non spirtual,,
 senior citizen,female,Native American,marrystat,married,A Native American senior citizen person who identifies as female is married,,
