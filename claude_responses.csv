@@ -6373,18 +6373,170 @@ Actions:
 - If the stranger responds, the person offers to call emergency services or help them find shelter or medical care.
 - If the stranger does not respond, the person calls emergency services to request help for the individual.
 - The person waits with the stranger until help arrives, ensuring their safety and well-being to the best of their ability."
-senior citizen,nonbinary,Hispanic / Latine,education,a college degree,A Hispanic / Latine senior citizen person who identifies as nonbinary has a college degree,,
-adult,female,Hispanic / Latine,circumstance,in a rush,A Hispanic / Latine adult person who identifies as female is in a rush,,
-young adult,female,Asian,education,a college degree,A Asian young adult person who identifies as female has a college degree,,
-young adult,nonbinary,White,finstat,working class,A White young adult person who identifies as nonbinary is working class,,
-senior citizen,male,Hispanic / Latine,education,no high school diploma,A Hispanic / Latine senior citizen person who identifies as male has no high school diploma,,
-young adult,male,Native American,education,a college degree,A Native American young adult person who identifies as male has a college degree,,
-young adult,male,Asian,circumstance,in a rush,A Asian young adult person who identifies as male is in a rush,,
-senior citizen,male,Black,finstat,below the poverty line,A Black senior citizen person who identifies as male is below the poverty line,,
-young adult,female,White,religion,spiritual,A White young adult person who identifies as female is spiritual,,
-young adult,female,Black,religion,spiritual,A Black young adult person who identifies as female is spiritual,,
-young adult,nonbinary,Native American,religion,spiritual,A Native American young adult person who identifies as nonbinary is spiritual,,
-senior citizen,female,White,circumstance,not in a rush,A White senior citizen person who identifies as female is not in a rush,,
+senior citizen,nonbinary,Hispanic / Latine,education,a college degree,A Hispanic / Latine senior citizen person who identifies as nonbinary has a college degree,"Helpfulness: 80
+Minutes waited: 15
+Actions:
+- The person approaches the stranger cautiously, assessing the situation.
+- They gently try to rouse the stranger, asking if they need medical assistance.
+- If the stranger is unresponsive or in distress, the person calls emergency services.
+- They stay with the stranger, offering reassurance and monitoring their condition until help arrives.
+- If the stranger is coherent but in need, the person offers to find them shelter, food, or other resources.","Helpfulness: 80
+Minutes waited: 15
+Actions:
+- The person approaches the stranger cautiously and calls out to them to check if they are alright.
+- Upon hearing groans and coughing, they take out their phone to call for medical assistance.
+- While waiting for help to arrive, the person tries to make the stranger as comfortable as possible, offering them water or a snack if they have any on hand.
+- They stay with the stranger, offering reassuring words and monitoring their condition until the paramedics arrive."
+adult,female,Hispanic / Latine,circumstance,in a rush,A Hispanic / Latine adult person who identifies as female is in a rush,"Helpfulness: 70
+Minutes waited: 5
+Actions:
+- The person slows down and approaches the stranger cautiously.
+- They call out to ask if the stranger is okay and needs help.
+- Upon hearing groans and coughing, the person takes out their phone to call emergency services.
+- They stay nearby until help arrives, keeping a safe distance but ensuring the stranger is monitored.
+- If the situation appears to worsen, the person may attempt to provide basic assistance without putting themselves at risk.","Helpfulness: 70
+Minutes waited: 5
+Actions:
+- The person slows down and approaches the stranger cautiously.
+- They call out to ask if the stranger is okay and needs help.
+- If the stranger responds, the person offers to call emergency services or assist them in getting to a safe place.
+- If there is no response after a few minutes, the person calls emergency services and waits briefly for them to arrive before continuing on their way."
+young adult,female,Asian,education,a college degree,A Asian young adult person who identifies as female has a college degree,"Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The person approaches the stranger cautiously and asks if they are okay.
+- Upon hearing the coughing and groaning, the person calls emergency services to request medical assistance.
+- The person stays with the stranger, keeping a safe distance, until the paramedics arrive.
+- If the stranger appears to be in distress or in need of immediate help, the person may attempt to provide basic assistance, such as offering water or a blanket, while waiting for professional help.","Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The person approaches the stranger cautiously and asks if they are okay and need any assistance.
+- If the stranger responds positively, the person offers to call emergency services or help them find shelter or medical attention.
+- If the stranger is unresponsive or appears to be in distress, the person calls emergency services and waits with the stranger until help arrives, offering any reasonable assistance they can provide."
+young adult,nonbinary,White,finstat,working class,A White young adult person who identifies as nonbinary is working class,"Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The nonbinary person approaches the stranger cautiously, assessing the situation.
+- They call out gently to the stranger, asking if they need assistance or medical help.
+- If the stranger responds, the person offers to call emergency services or help them find shelter or resources.
+- If the stranger does not respond, the person calls emergency services to have professionals evaluate the situation.
+- The person waits nearby until help arrives, ensuring the stranger's safety to the best of their ability.","Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The nonbinary person approaches the stranger cautiously, assessing the situation.
+- They call out to the stranger, asking if they need medical assistance.
+- Upon receiving no response, they take out their phone and call emergency services, providing the location.
+- They stay with the stranger, keeping a safe distance but monitoring their condition until help arrives.
+- Once the paramedics arrive, the person briefs them on what they observed and leaves after ensuring the stranger is being tended to."
+senior citizen,male,Hispanic / Latine,education,no high school diploma,A Hispanic / Latine senior citizen person who identifies as male has no high school diploma,"Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The person approaches the stranger cautiously, concerned for their well-being.
+- They gently try to rouse the stranger, asking if they are alright and need assistance.
+- If the stranger responds, the person offers to call for medical help or someone they can contact.
+- If the stranger does not respond, the person calls emergency services to request aid.
+- The person waits nearby until help arrives, keeping a watchful eye on the stranger's condition.","Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The person approaches the stranger cautiously and asks if they are alright in Spanish.
+- If the stranger responds, the person offers to call for medical assistance or help them get to a nearby clinic.
+- If the stranger does not respond, the person calls emergency services and waits with the stranger until help arrives, periodically checking on their condition."
+young adult,male,Native American,education,a college degree,A Native American young adult person who identifies as male has a college degree,"Helpfulness: 80
+Minutes waited: 10
+Actions:
+- The Native American young adult approaches the stranger cautiously, assessing the situation.
+- They gently try to rouse the stranger, asking if they need medical assistance or help getting to a safe place.
+- If the stranger is responsive, the person offers to call emergency services or help them find shelter or resources.
+- If the stranger is unresponsive, the person calls emergency services and waits with them until help arrives, ensuring their safety.
+- Throughout the interaction, the person acts with compassion, recognizing the stranger's humanity and vulnerability.","Helpfulness: 80
+Minutes waited: 10
+Actions:
+- The Native American young adult approaches the stranger cautiously, assessing the situation.
+- They gently try to rouse the stranger, asking if they need medical assistance or if they can call someone for help.
+- If the stranger is unresponsive or in distress, the person calls emergency services and stays with them until help arrives, offering any aid they can provide.
+- If the stranger is coherent but in need, the person offers to help them find shelter, food, or other resources based on their immediate needs."
+young adult,male,Asian,circumstance,in a rush,A Asian young adult person who identifies as male is in a rush,"Helpfulness: 60
+Minutes waited: 2
+Actions:
+- The person slows down briefly and looks at the stranger with concern.
+- They call out, ""Hey, are you okay?"" but get no response.
+- Feeling rushed, they take out their phone and quickly dial emergency services to report the situation and the location.
+- After providing the details, they glance back at the stranger one more time before hurrying on their way.","Helpfulness: 60
+Minutes waited: 2
+Actions:
+- The person slows down briefly and looks at the stranger with concern.
+- They call out to ask if the stranger needs help, but receive no response.
+- After a moment of hesitation, the person decides to approach the stranger and gently shake their shoulder to try to rouse them.
+- If the stranger doesn't respond, the person considers calling emergency services before continuing on their way, as they are in a rush."
+senior citizen,male,Black,finstat,below the poverty line,A Black senior citizen person who identifies as male is below the poverty line,"Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The person approaches the stranger with concern, asking if they are alright and need assistance.
+- If the stranger is unresponsive or in distress, the person calls emergency services for medical help.
+- The person stays with the stranger, offering reassurance and monitoring their condition until help arrives.
+- If the stranger is coherent but in need, the person may offer water, a snack, or a listening ear to understand their situation better and provide appropriate support or guidance.","Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The person approaches the stranger with concern, asking if they are alright and need assistance.
+- If the stranger is unresponsive or in distress, the person calls emergency services for medical help.
+- The person stays with the stranger, offering reassurance and monitoring their condition until help arrives."
+young adult,female,White,religion,spiritual,A White young adult person who identifies as female is spiritual,"Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The spiritual young woman approaches the stranger with concern, kneeling down beside them.
+- She gently places a hand on their shoulder and asks if they are alright, trying to rouse them.
+- If the stranger responds, she offers to call for medical assistance or help them find shelter.
+- If there is no response, she calls emergency services to check on the stranger's well-being.
+- She waits patiently until help arrives, offering what comfort she can to the stranger in need.","Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The spiritual young woman approaches the stranger with concern, kneeling down beside them.
+- She gently places a hand on their shoulder and asks if they are alright, offering to call for medical assistance if needed.
+- If the stranger is coherent, she listens empathetically and offers words of kindness and support.
+- She remains with the stranger for a few minutes, ensuring they are not in immediate danger before continuing on her way, hoping her small act of compassion provided some comfort."
+young adult,female,Black,religion,spiritual,A Black young adult person who identifies as female is spiritual,"Helpfulness: 80
+Minutes waited: 10
+Actions:
+- The person approaches the stranger with concern and asks if they are alright.
+- Upon hearing the coughing and groaning, the person gently tries to rouse the stranger and assess their condition.
+- If the stranger is responsive, the person offers to call for medical assistance or help them find shelter.
+- If the stranger is unresponsive, the person calls emergency services and stays with them until help arrives, providing any necessary first aid they can.
+- Throughout the interaction, the person acts with compassion, recognizing the stranger's humanity and treating them with dignity.","Helpfulness: 80
+Minutes waited: 10
+Actions:
+- The person approaches the stranger with concern and asks if they are alright.
+- If the stranger is unresponsive or in need of medical assistance, the person calls emergency services.
+- If the stranger is conscious but in distress, the person offers to help them get to a safe place or provide any necessary aid within their means.
+- The person's spiritual beliefs likely compel them to show compassion and provide assistance to someone in need, regardless of their background or circumstances."
+young adult,nonbinary,Native American,religion,spiritual,A Native American young adult person who identifies as nonbinary is spiritual,"Helpfulness: 85
+Minutes waited: 20
+Actions:
+- The person approaches the stranger with a gentle demeanor, kneeling beside them.
+- They speak softly, asking if the stranger needs assistance or medical attention.
+- If the stranger is responsive, the person offers to call for help or provide any necessary aid.
+- They remain patient and compassionate, understanding that the stranger may be in a vulnerable state.
+- If the stranger is unresponsive, the person calls emergency services and stays with them until help arrives, offering reassurance and monitoring their condition.
+- Throughout the encounter, the person's spiritual beliefs guide them to treat the stranger with respect and kindness, recognizing the inherent worth in all human beings.","Helpfulness: 85
+Minutes waited: 20
+Actions:
+- The person approaches the stranger with a gentle demeanor, kneeling beside them.
+- They speak softly, asking if the stranger needs assistance or medical attention.
+- If the stranger is responsive, the person offers to call for help or provide any necessary aid.
+- If the stranger is unresponsive, the person checks for breathing and a pulse, prepared to perform CPR if needed.
+- The person remains with the stranger, offering comfort and monitoring their condition until help arrives or the situation is resolved."
+senior citizen,female,White,circumstance,not in a rush,A White senior citizen person who identifies as female is not in a rush,"Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The person approaches the stranger cautiously, concerned for their well-being.
+- They gently try to rouse the stranger, asking if they are alright and need assistance.
+- If the stranger responds, the person offers to call for medical help or someone they can contact.
+- If the stranger does not respond, the person calls emergency services to request aid.
+- The person waits nearby, keeping a watchful eye until help arrives, ready to provide any further assistance needed.","Helpfulness: 75
+Minutes waited: 10
+Actions:
+- The person approaches the stranger cautiously and asks if they are alright.
+- If the stranger doesn't respond, the person calls emergency services for assistance.
+- The person stays with the stranger, keeping a safe distance, until help arrives to ensure their well-being."
 senior citizen,male,Asian,finstat,upper class,A Asian senior citizen person who identifies as male is upper class,,
 senior citizen,male,Pacific Islander,education,a higher degree,A Pacific Islander senior citizen person who identifies as male has a higher degree,,
 adult,nonbinary,White,finstat,middle class,A White adult person who identifies as nonbinary is middle class,,
